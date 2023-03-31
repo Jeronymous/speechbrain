@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="docs/images/speechbrain-logo.svg" alt="SpeechBrain Logo"/>
+  <img src="https://raw.githubusercontent.com/speechbrain/speechbrain/develop/docs/images/speechbrain-logo.svg" alt="SpeechBrain Logo"/>
 </p>
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/SpeechBrain1/)
+[![Discord](https://dcbadge.vercel.app/api/server/3wYvAaz3Ck?style=flat)](https://discord.gg/3wYvAaz3Ck)
+
 
 SpeechBrain is an **open-source** and **all-in-one** conversational AI toolkit based on PyTorch.
 
